@@ -1,0 +1,5 @@
+[feeds]
+market_refresh_seconds = 5
+levels_refresh_seconds = 60
+calendar_refresh_seconds = 600
+earnings_refresh_seconds = 3600
